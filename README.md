@@ -1,4 +1,4 @@
-![Octocat](Octocat_Avatar-darkBack.gif)
+![Octocat](Octocat_Avatar.gif)
 
 # 👋 Hi, I'm @JoshKoiro
 
