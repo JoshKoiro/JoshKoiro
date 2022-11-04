@@ -1,4 +1,4 @@
-![Octocat](Octocat_Avatar.gif)
+<img src="Octocat_Avatar.gif" width=100%>
 
 # 👋 Hi, I'm @JoshKoiro
 
