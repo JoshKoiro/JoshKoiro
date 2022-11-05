@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 width="50%">Hi! I'm @JoshKoiro 👋 </h1>
 ❤️ Receiver of Unconditional Love | 🌱 Mind Gardener | 🎹 Musician | 🤓 Learning Addict |  👨‍💻 Coder & Digital Handyman |  ✍️ Writing | ☕ Coffee
 
@@ -6,14 +7,7 @@
 ## Things I'm knowledgable about:
 <img src="js.svg" width:200 height:200 alt="">
 
-
 ## Things I'm learning about
-
-
-- 👀 I’m interested in...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 JoshKoiro/JoshKoiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
