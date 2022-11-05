@@ -1,0 +1,11 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    img {
+      fill:#F7DF1E;
+    }
+  </style>
+  <!-- Common use case: embed HTML text into SVG -->
+  <foreignObject x="0" y="0" width="200" height="200">
+    <img height="200" width="200" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg"/>
+  </foreignObject>
+</svg>

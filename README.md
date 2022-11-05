@@ -1,6 +1,14 @@
-<img src="Octocat_Avatar.gif" width=100%>
+<h1 width="50%">Hi! I'm @JoshKoiro 👋 </h1>
+❤️ Receiver of Unconditional Love | 🌱 Mind Gardener | 🎹 Musician | 🤓 Learning Addict |  👨‍💻 Coder & Digital Handyman |  ✍️ Writing | ☕ Coffee
 
-# 👋 Hi, I'm @JoshKoiro
+<img src="Octocat_Avatar.gif" width=55% align="center">
+
+## Things I'm knowledgable about:
+<img src="js.svg" width:200 height:200 alt="">
+
+
+## Things I'm learning about
+
 
 - 👀 I’m interested in...
 - 🌱 I’m currently learning ...
