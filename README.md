@@ -2,7 +2,9 @@
 <img src="Octocat_Avatar.gif" width="40%" align="right">
 
 <h1 align="left">Hi! I'm @JoshKoiro 👋 </h1>
-Receiver of Unconditional Love ❤️ | Mind Gardener 🌱 | Musician 🎹 | Learning Addict 🤓 | Coder & Digital Handyman 👨‍💻 | Writing ✍️ | Coffee ☕
+| Receiver of Unconditional Love ❤️ | Mind Gardener 🌱 | Musician 🎹 |
+<br>
+| Learning Addict 🤓 | Coder & Digital Handyman 👨‍💻 | Writing ✍️ | Coffee ☕ |
 </header>
 <br><br><br>
 
