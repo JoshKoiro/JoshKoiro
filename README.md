@@ -6,10 +6,10 @@
 <br>
 | Learning Addict 🤓 | Coder & Digital Handyman 👨‍💻 | Writing ✍️ | Coffee ☕ |
 </header>
-<br><br><br>
+<br><br>
 I use nvim btw...⌨️
 <br><br><br>
-## Thanks for visiting my Github profile!
+<h2>Thanks for visiting my Github profile!</h2>
 
 Feel free to browse my repositories to see what I've been up to and take a look at my online resume at [josh.koiro.github.io](https://joshkoiro.github.io)
 
