@@ -7,7 +7,6 @@
 | Learning Addict 🤓 | Coder & Digital Handyman 👨‍💻 | Writing ✍️ | Coffee ☕ |
 </header>
 <br><br>
-I use nvim btw...⌨️
 <br><br><br>
 <h2>Thanks for visiting my Github profile!</h2>
 
